@@ -4,7 +4,7 @@ subtitle: How to change your mobile phone number and what to do if you have prob
 pageName: manage:phone-number
 type: article
 hub: manage
-position: 3
+position: 4
 layout: layouts/article.njk
 ---
 
